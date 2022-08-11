@@ -1,0 +1,5 @@
+1. Download the ( Files.zip ) ( Right Click -> Download )
+2. Unzip and open the folder
+3. Run / Open ( script.exe )
+4. Follow the instructions from the console ( if any pop up )
+5. Open teamspeak and connect to ( ts.cmgstudios.net )
